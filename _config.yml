@@ -25,15 +25,15 @@ author:
   avatar           : "profile.png"
   name             : "Fabio"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Brazil"
+  bio              : "PhD Student @ UEM"
+  location         : "Padua, Italy"
   employer         : "UEM"
   uri              : # URL
   email            : # "none@example.org"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # "https://scholar.google.com/citations?user="
+  googlescholar    : "https://scholar.google.com/citations?user=FPGqd6wAAAAJ"
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0002-3494-8775"
   semantic         : # URL
